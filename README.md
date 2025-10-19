@@ -11,7 +11,6 @@ It helps your system **fail fast**, **recover gracefully**, and **avoid cascadin
 - Configurable **max consecutive errors**
 - Built-in **exponential backoff + jitter**
 - Exposes **circuit state** (`OPEN` / `CLOSED`)
-- 
 ---
 
 ## What Is a Circuit Breaker?
